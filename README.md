@@ -98,9 +98,9 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 
 ## Miscellaneous
 
-* [Buyddcloud](http://buddycloud.com/) - Tools, libraries and services for secure cloud & on-premise user and group messaging.
-* [The Jabber Spam Fighting Manifesto](https://github.com/ge0rg/jabber-spam-fighting-manifesto/) - Federated Server Policies against the spam.
+* [Buddycloud](http://buddycloud.com/) - Tools, libraries and services for secure cloud & on-premise user and group messaging.
 * [XMPP Compliance](https://conversations.im/compliance/) - Service checking compliance of the XMPP servers.
+* [The Jabber Spam Fighting Manifesto](https://github.com/ge0rg/jabber-spam-fighting-manifesto/) - Federated Server Policies against the spam.
 * [XMPP Manifesto for Freedom](https://gitlab.com/senpie/xmpp-manifesto-for-freedom) - Freedom Manifesto, response to above.
 * [XMPP Observatory](https://xmpp.net/) - Testing the security of the Jabber/XMPP network.
 * [OMEMO](https://omemo.top/) - Progress of OMEMO integration in various XMPP clients.
